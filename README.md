@@ -1,1 +1,3 @@
-![Alt Text](bully.gif)
+<p align="center">
+  <img src="bully.gif" />
+</p>
